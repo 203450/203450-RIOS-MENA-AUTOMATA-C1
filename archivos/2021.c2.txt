@@ -1,0 +1,148 @@
+El volumen de la unidad G es cdiaz@ids.upchiapas.edu.mx - ...
+ El número de serie del volumen es: 1983-1116
+
+ Directorio de G:\Mi unidad\IDS_CACEI_Criterio 1\Actas completas\2021.C2
+
+07/10/2022  09:58    <DIR>          .
+02/08/2022  12:52    <DIR>          ..
+04/07/2022  10:48             6.941 Estadía - 10A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:48             9.330 Arquitectura Orientada a Servicios - 9A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021 (4).xlsx
+04/07/2022  10:47             7.956 Programación para Móviles I - 8A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:47             8.206 Análisis Financiero de Software - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:47             7.947 Mantenimiento de Software - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:47             8.177 Multimedia y Diseño Digital - 8A - VÁZQUEZ PÉREZ CELSO - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:47             6.795 Inglés IX - IXA - NOLASCO SANCHEZ ISABEL ULBER - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:47             6.956 Seguridad informática - A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:47             9.209 Inglés IX - A - NOLASCO SANCHEZ ISABEL ULBER - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:47             6.916 Compiladores e Intérpretes - 8A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:47             7.859 Inteligencia Artificial - 8A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:47             7.859 Inteligencia Artificial - 8A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:47             9.106 Seguridad de la Información - 9A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2021 (3).xlsx
+02/08/2022  13:07            10.848 Administración de Proyectos de Software - 9A - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2021 (3).xlsx
+04/07/2022  10:47             8.943 Programación para Móviles II - 9A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:47             9.130 Minería de Datos - 9A - RAMOS FON BON VICTOR FERNANDO - MAYO-AGOSTO 2021 (1) (1).xlsx
+04/07/2022  10:47             6.803 Arquitecturas orientadas a servicios - A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:47             9.331 Arquitectura Orientada a Servicios - 9A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:47             9.332 Arquitectura Orientada a Servicios - 9A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:47             9.332 Arquitectura Orientada a Servicios - 9A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:47             9.018 Calidad del Software - 6B - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:47             8.888 Expresión Oral y Escrita II - 9A - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021 (3).xlsx
+04/07/2022  10:47             6.807 Estadía - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (3).xlsx
+04/07/2022  10:47             6.940 Estadía - 10A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (3).xlsx
+04/07/2022  10:48             8.973 Liderazgo de Equipos de Alto Desempeño - 7A - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:47             8.972 Calidad del Software - 6A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:47             9.146 Arquitectura de Computadoras - 6A - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:48             7.859 Inteligencia Artificial - 8A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:47             8.545 Arquitectura de Computadoras - 6B - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:47             9.419 Redes - 6A - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:47             8.596 Redes - 6B - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:48             7.189 Inteligencia artificial - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:48             8.719 Liderazgo de Equipos de Alto Desempeño - 7B - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:48             7.956 Programación para Móviles I - 8A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             9.376 Inglés VIII - A IdsEn - AVENDAÑO PÉREZ JOQUEBET ANAHÍ - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             6.917 Compiladores e Intérpretes - 8A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             9.209 Inglés IX - A - NOLASCO SANCHEZ ISABEL ULBER - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             6.957 Seguridad informática - A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             9.210 Inglés IX - A - NOLASCO SANCHEZ ISABEL ULBER - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:48             8.944 Programación para Móviles II - 9A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:48             8.945 Programación para Móviles II - 9A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             8.206 Análisis Financiero de Software - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             9.130 Minería de Datos - 9A - RAMOS FON BON VICTOR FERNANDO - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:48             9.107 Seguridad de la Información - 9A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             8.177 Multimedia y Diseño Digital - 8A - VÁZQUEZ PÉREZ CELSO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             9.107 Seguridad de la Información - 9A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:48             7.947 Mantenimiento de Software - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             6.795 Inglés IX - IXA - NOLASCO SANCHEZ ISABEL ULBER - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             9.130 Minería de Datos - 9A - RAMOS FON BON VICTOR FERNANDO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             8.739 Administración de Proyectos de Software - 9A - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:48             8.890 Expresión Oral y Escrita II - 9A - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:48             6.806 Estadía - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:48             6.806 Estadía - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             6.941 Estadía - 10A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             9.331 Arquitectura Orientada a Servicios - 9A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021 (3).xlsx
+04/07/2022  10:48             6.802 Arquitecturas orientadas a servicios - A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             8.739 Administración de Proyectos de Software - 9A - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:48             8.889 Expresión Oral y Escrita II - 9A - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:45             9.813 Ética Profesional - 5A - SALAZAR ARIAS GUILLERMO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45            10.504 Fundamentos de Redes - 5A - MENDOZA ZÁRATE LUBER - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             6.948 Compiladores e interpretes - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45            10.330 Sistemas Digitales - 5A - MENDOZA ZÁRATE LUBER - MAYO-AGOSTO 2021.xlsx
+02/08/2022  13:04            12.387 Arquitectura de Software - 5A - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             8.847 Inglés VI - B IdsEn - GUTIERREZ SANCHEZ DIDIA ANAHI - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:46             8.971 Calidad del Software - 6A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2021 (1) (1).xlsx
+04/07/2022  10:46             8.865 Probabilidad y Estadística - 6B - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:46             9.017 Calidad del Software - 6B - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2021 (1) (1).xlsx
+04/07/2022  10:46             9.880 Probabilidad y Estadística - 6A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             9.303 Inglés VI - A IdsEne - GUTIÉRREZ DE LA CRUZ JOAQUÍN MIGUEL - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45            10.163 Habilidades Gerenciales - 6A - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             8.670 Habilidades Gerenciales - 6B - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:46             9.146 Arquitectura de Computadoras - 6A - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:46             8.544 Arquitectura de Computadoras - 6B - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:46             8.595 Redes - 6B - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:46             8.719 Liderazgo de Equipos de Alto Desempeño - 7B - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021 (1) (1).xlsx
+04/07/2022  10:46             7.189 Inteligencia artificial - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (1) (1).xlsx
+04/07/2022  10:46             8.974 Liderazgo de Equipos de Alto Desempeño - 7A - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021 (1) (1).xlsx
+04/07/2022  10:46             9.588 Ingeniería de Requerimientos de Software - 3A - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             8.698 Ingeniería de Requerimientos de Software - 3B - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             9.415 Inglés V - A IdsEne - GORDILLO ORANTES BRENDA GUADALUPE - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             6.906 Inglés V - V A IdsEnergía - GORDILLO ORANTES BRENDA GUADALUPE - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             9.418 Redes - 6A - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:46             9.814 Ética Profesional - 5A - SALAZAR ARIAS GUILLERMO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             8.747 Fundamentos de Base de Datos - 3B - RAMOS FON BON VICTOR FERNANDO - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:46            10.501 Fundamentos de Redes - 5A - MENDOZA ZÁRATE LUBER - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46            10.331 Sistemas Digitales - 5A - MENDOZA ZÁRATE LUBER - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             9.303 Inglés VI - A IdsEne - GUTIÉRREZ DE LA CRUZ JOAQUÍN MIGUEL - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             8.847 Inglés VI - B IdsEn - GUTIERREZ SANCHEZ DIDIA ANAHI - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             8.867 Probabilidad y Estadística - 6B - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             6.948 Compiladores e interpretes - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             9.786 Matemáticas para Ingeniería II - 5A - NUÑEZ GALLEGOS FABIAN - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             6.809 Habilidades organizacionales - A - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             9.465 Programación Cliente Servidor - 5A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021 (1).xlsx
+02/08/2022  13:12            12.387 Arquitectura de Software - 5A - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46            10.164 Habilidades Gerenciales - 6A - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             9.880 Probabilidad y Estadística - 6A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             8.670 Habilidades Gerenciales - 6B - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:47             9.018 Calidad del Software - 6B - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             9.419 Redes - 6A - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:47             8.974 Liderazgo de Equipos de Alto Desempeño - 7A - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             9.147 Arquitectura de Computadoras - 6A - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:47             8.719 Liderazgo de Equipos de Alto Desempeño - 7B - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:46             8.544 Arquitectura de Computadoras - 6B - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:47             8.971 Calidad del Software - 6A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:47             8.595 Redes - 6B - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:47             7.189 Inteligencia artificial - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:47             9.377 Inglés VIII - A IdsEn - AVENDAÑO PÉREZ JOQUEBET ANAHÍ - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:44            10.170 Inglés II - A - LEAL LARA CRISTÓBAL - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:44            10.932 Ingeniería de Software Asistida por Computadora - 2A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:44             6.912 Inglés III - 3 B IdesEner - MERCHAM LOPEZ RAQUEL - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:44            10.476 Cálculo Diferencial - 2A - MENDOZA ZÁRATE LUBER - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:44            10.295 Programación Orientada a Objetos - 2A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:44             8.511 Inglés III - A IdsEn - CASTELLANOS HERNÁNDEZ RAQUEL - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:44             8.351 Inglés III - B IdsEn - MERCHAM LOPEZ RAQUEL - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:44             7.531 Inglés III - C IdsEn - DE LA ROCA SOLIS ANA GABRIELA - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             9.885 Cálculo Integral - 3A - NUÑEZ GALLEGOS FABIAN - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:44            10.287 Desarrollo Humano y Valores - 2A - SALAZAR ARIAS GUILLERMO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:44            10.286 Desarrollo Humano y Valores - 2A - SALAZAR ARIAS GUILLERMO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:45             8.748 Inteligencia Emocional y Manejo de Conflictos - 3B - SALAZAR ARIAS GUILLERMO - MAYO-AGOSTO 2021.xlsx
+02/08/2022  13:09            12.494 Procesos de Desarrollo de Software - 2A - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:44            10.108 Estructura de Datos - 2A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             9.670 Inteligencia Emocional y Manejo de Conflictos - 3A - SALAZAR ARIAS GUILLERMO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             9.910 Programación Visual - 3A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             9.134 Cálculo Integral - 3B - NUÑEZ GALLEGOS FABIAN - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             8.496 Programación Visual - 3B - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             6.906 Inglés V - V A IdsEnergía - GORDILLO ORANTES BRENDA GUADALUPE - MAYO-AGOSTO 2021.xlsx
+02/08/2022  13:03            11.655 Ingeniería de Requerimientos de Software - 3A - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             8.748 Fundamentos de Base de Datos - 3B - RAMOS FON BON VICTOR FERNANDO - MAYO-AGOSTO 2021 (1).xlsx
+04/07/2022  10:45             9.417 Inglés V - A IdsEne - GORDILLO ORANTES BRENDA GUADALUPE - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             8.747 Fundamentos de Base de Datos - 3B - RAMOS FON BON VICTOR FERNANDO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             9.784 Matemáticas para Ingeniería II - 5A - NUÑEZ GALLEGOS FABIAN - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             9.465 Programación Cliente Servidor - 5A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             6.809 Habilidades organizacionales - A - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             9.086 Estructura de Datos Avanzadas - 3B - RAMOS FON BON VICTOR FERNANDO - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             9.460 Estructura de Datos Avanzadas - 3A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2021.xlsx
+04/07/2022  10:45             9.651 Fundamentos de Base de Datos - 3A - RAMOS FON BON VICTOR FERNANDO - MAYO-AGOSTO 2021.xlsx
+02/08/2022  13:03            10.826 Ingeniería de Requerimientos de Software - 3B - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2021.xlsx
+07/10/2022  08:41            17.310 s.txt
+07/10/2022  09:58               189 2021.c2.txt
+             139 archivos      1.230.714 bytes
+               2 dirs  433.843.466.240 bytes libres

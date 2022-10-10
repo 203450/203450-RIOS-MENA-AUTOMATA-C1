@@ -1,0 +1,164 @@
+ El volumen de la unidad G es cdiaz@ids.upchiapas.edu.mx - ...
+ El número de serie del volumen es: 1983-1116
+
+ Directorio de G:\Mi unidad\IDS_CACEI_Criterio 1\Actas completas\2022.C2
+
+07/10/2022  09:59    <DIR>          .
+02/08/2022  12:52    <DIR>          ..
+03/08/2022  09:26             8.795 Minería de Datos - 9A - GALDAMEZ BLANCO CHRISTIAN EDUARDO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             8.459 Administración de Proyectos de Software - 9B - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             8.417 Programación para Móviles II - 9B - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             8.668 Expresión Oral y Escrita II - 9B - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             8.413 Seguridad de la Información - 9B - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             8.649 Seguridad de la Información - 9A - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             8.590 Arquitectura Orientada a Servicios - 9B - LÓPEZ ZUNÚN ALÍ SANTIAGO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             9.602 Expresión Oral y Escrita II - 9A - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.495 Habilidades Gerenciales - 6B - GASCA CABRERA VIRIDIANA ATENAS - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             9.052 Redes - 6A - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:25             9.333 Inteligencia Artificial - 8A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             9.599 Inglés VIII - Mix Ids_Ene- A - AVENDAÑO PÉREZ JOQUEBET ANAHÍ - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             9.780 Compiladores e Intérpretes - 8A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             8.188 Inteligencia Artificial - 8B - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             9.502 Análisis Financiero de Software - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2022 (3).xlsx
+03/08/2022  09:25             8.541 Inglés IX - IDS-A - NOLASCO SANCHEZ ISABEL ULBER - MAYO-AGOSTO 2022 (3).xlsx
+03/08/2022  09:25             9.504 Mantenimiento de Software - 8A - GALDAMEZ BLANCO CHRISTIAN EDUARDO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:25             8.703 Inglés IX - IDS-B - SANCHEZ ACUÑA MARIA SOLEDAD - MAYO-AGOSTO 2022 (3).xlsx
+03/08/2022  09:25             9.638 Multimedia y Diseño Digital - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2022 (3).xlsx
+03/08/2022  09:25             9.556 Programación para Móviles I - 8A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             8.413 Seguridad de la Información - 9B - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2022 (3).xlsx
+03/08/2022  09:25             8.417 Programación para Móviles II - 9B - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2022 (3).xlsx
+03/08/2022  09:25             8.428 Programación para Móviles II - 9A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2022 (1) (1).xlsx
+03/08/2022  09:25             8.831 Inglés VI - IDS-A - GUTIÉRREZ DE LA CRUZ JOAQUÍN MIGUEL - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             8.795 Minería de Datos - 9A - GALDAMEZ BLANCO CHRISTIAN EDUARDO - MAYO-AGOSTO 2022 (3).xlsx
+03/08/2022  09:25             8.649 Seguridad de la Información - 9A - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2022 (3).xlsx
+03/08/2022  09:25             8.661 Probabilidad y Estadística - 6B - MENDOZA ZÁRATE LUBER - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             9.407 Probabilidad y Estadística - 6A - MENDOZA ZÁRATE LUBER - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             8.672 Calidad del Software - 6A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:25             8.724 Inglés VI - IDS-B - AGUILAR ANZUETO BLANCA ZUARANI - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             8.962 Arquitectura de Computadoras - 6A - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             8.495 Habilidades Gerenciales - 6B - GASCA CABRERA VIRIDIANA ATENAS - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             8.718 Calidad del Software - 6B - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:25             9.285 Arquitectura de Software - 5A - GALDAMEZ BLANCO CHRISTIAN EDUARDO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             8.430 Arquitectura de Computadoras - 6B - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             9.238 Sistemas Digitales - 5A - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             8.775 Habilidades Gerenciales - 6A - GASCA CABRERA VIRIDIANA ATENAS - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:25             8.541 Redes - 6B - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:25             9.780 Compiladores e Intérpretes - 8A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:25             9.600 Inglés VIII - Mix Ids_Ene- A - AVENDAÑO PÉREZ JOQUEBET ANAHÍ - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:25             9.051 Redes - 6A - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:25             7.263 Estancia II - 7A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:25             9.557 Programación para Móviles I - 8A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             9.638 Multimedia y Diseño Digital - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             8.540 Inglés IX - IDS-A - NOLASCO SANCHEZ ISABEL ULBER - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             8.428 Programación para Móviles II - 9A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             8.704 Inglés IX - IDS-B - SANCHEZ ACUÑA MARIA SOLEDAD - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:25             9.505 Análisis Financiero de Software - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:25             9.333 Inteligencia Artificial - 8A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             9.508 Mantenimiento de Software - 8A - GALDAMEZ BLANCO CHRISTIAN EDUARDO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:25             8.189 Inteligencia Artificial - 8B - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             8.417 Programación para Móviles II - 9B - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             8.649 Seguridad de la Información - 9A - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             8.794 Minería de Datos - 9A - GALDAMEZ BLANCO CHRISTIAN EDUARDO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             8.414 Seguridad de la Información - 9B - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             9.504 Análisis Financiero de Software - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             9.602 Expresión Oral y Escrita II - 9A - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             8.148 Minería de Datos - 9B - GALDAMEZ BLANCO CHRISTIAN EDUARDO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             9.059 Administración de Proyectos de Software - 9A - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:26             8.456 Administración de Proyectos de Software - 9B - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             8.532 Arquitectura Orientada a Servicios - 9A - LÓPEZ ZUNÚN ALÍ SANTIAGO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:26             9.638 Multimedia y Diseño Digital - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             8.669 Expresión Oral y Escrita II - 9B - ALVAREZ COELLO GREISY DINORY - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             8.541 Inglés IX - IDS-A - NOLASCO SANCHEZ ISABEL ULBER - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             8.428 Programación para Móviles II - 9A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             8.590 Arquitectura Orientada a Servicios - 9B - LÓPEZ ZUNÚN ALÍ SANTIAGO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             8.533 Arquitectura Orientada a Servicios - 9A - LÓPEZ ZUNÚN ALÍ SANTIAGO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             9.059 Administración de Proyectos de Software - 9A - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             8.704 Inglés IX - IDS-B - SANCHEZ ACUÑA MARIA SOLEDAD - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:26             8.149 Minería de Datos - 9B - GALDAMEZ BLANCO CHRISTIAN EDUARDO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:26             9.507 Mantenimiento de Software - 8A - GALDAMEZ BLANCO CHRISTIAN EDUARDO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             8.637 Ingeniería de Requerimientos de Software - 3C - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             8.456 Fundamentos de Base de Datos - 3C - LÓPEZ PÉREZ RICARDO GUDIEL - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             8.735 Ingeniería de Requerimientos de Software - 3B - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             9.335 Ingeniería de Requerimientos de Software - 3A - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             8.752 Estructura de Datos Avanzadas - 3C - NURICUMBO CASTRO HECTOR ROBERTO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             9.453 Ética Profesional - 5A - SALAZAR ARIAS GUILLERMO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             7.676 Inglés V - Mix IDS_Ene-B - ZAVALA ARAGON CARLOS FABRICIO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             8.753 Estructura de Datos Avanzadas - 3B - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             9.601 Matemáticas para Ingeniería II - 5A - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             9.563 Inglés V - IDS-A - ROBLES HERNANDEZ DIANA CAROLINA - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             8.831 Inglés VI - IDS-A - GUTIÉRREZ DE LA CRUZ JOAQUÍN MIGUEL - MAYO-AGOSTO 2022 (3).xlsx
+03/08/2022  09:23             9.407 Probabilidad y Estadística - 6A - MENDOZA ZÁRATE LUBER - MAYO-AGOSTO 2022 (3).xlsx
+03/08/2022  09:23             9.318 Programación Cliente Servidor - 5A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             8.725 Inglés VI - IDS-B - AGUILAR ANZUETO BLANCA ZUARANI - MAYO-AGOSTO 2022 (3).xlsx
+03/08/2022  09:24             9.317 Programación Visual - 3A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:23             9.188 Fundamentos de Redes - 5A - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             8.661 Probabilidad y Estadística - 6B - MENDOZA ZÁRATE LUBER - MAYO-AGOSTO 2022 (3).xlsx
+03/08/2022  09:24             8.568 Cálculo Integral - 3B - NÚÑEZ GALLEGOS FABIAN - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.514 Cálculo Integral - 3C - NÚÑEZ GALLEGOS FABIAN - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.527 Programación Visual - 3B - NURICUMBO CASTRO HECTOR ROBERTO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:23             9.285 Arquitectura de Software - 5A - GALDAMEZ BLANCO CHRISTIAN EDUARDO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             8.774 Habilidades Gerenciales - 6A - GASCA CABRERA VIRIDIANA ATENAS - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             8.495 Habilidades Gerenciales - 6B - GASCA CABRERA VIRIDIANA ATENAS - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             9.238 Sistemas Digitales - 5A - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             8.962 Arquitectura de Computadoras - 6A - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:24             9.254 Fundamentos de Base de Datos - 3A - LÓPEZ PÉREZ RICARDO GUDIEL - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             9.263 Estructura de Datos Avanzadas - 3A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:23             8.430 Arquitectura de Computadoras - 6B - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:24             8.431 Fundamentos de Base de Datos - 3B - LÓPEZ PÉREZ RICARDO GUDIEL - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.736 Ingeniería de Requerimientos de Software - 3B - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.636 Ingeniería de Requerimientos de Software - 3C - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.698 Programación Visual - 3C - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             9.335 Ingeniería de Requerimientos de Software - 3A - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.455 Fundamentos de Base de Datos - 3C - LÓPEZ PÉREZ RICARDO GUDIEL - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.752 Estructura de Datos Avanzadas - 3C - NURICUMBO CASTRO HECTOR ROBERTO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.753 Estructura de Datos Avanzadas - 3B - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             9.563 Inglés V - IDS-A - ROBLES HERNANDEZ DIANA CAROLINA - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             9.407 Probabilidad y Estadística - 6A - MENDOZA ZÁRATE LUBER - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.718 Calidad del Software - 6B - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:24             8.672 Calidad del Software - 6A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:24             7.676 Inglés V - Mix IDS_Ene-B - ZAVALA ARAGON CARLOS FABRICIO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             9.319 Programación Cliente Servidor - 5A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             9.603 Matemáticas para Ingeniería II - 5A - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.725 Inglés VI - IDS-B - AGUILAR ANZUETO BLANCA ZUARANI - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.662 Probabilidad y Estadística - 6B - MENDOZA ZÁRATE LUBER - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.831 Inglés VI - IDS-A - GUTIÉRREZ DE LA CRUZ JOAQUÍN MIGUEL - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             9.453 Ética Profesional - 5A - SALAZAR ARIAS GUILLERMO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             9.285 Arquitectura de Software - 5A - GALDAMEZ BLANCO CHRISTIAN EDUARDO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             9.188 Fundamentos de Redes - 5A - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.963 Arquitectura de Computadoras - 6A - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.431 Arquitectura de Computadoras - 6B - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             7.262 Estancia II - 7A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:24             8.541 Redes - 6B - MACIAS MONTOYA JOSE ALONSO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:24             9.238 Sistemas Digitales - 5A - GARCIA BALLINAS SIRGEI - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:24             8.774 Habilidades Gerenciales - 6A - GASCA CABRERA VIRIDIANA ATENAS - MAYO-AGOSTO 2022 (1).xlsx
+03/08/2022  09:22             9.413 Inglés II - Mix Ids_Ene-B - GUTIERREZ SANCHEZ DIDIA ANAHI - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:22             8.954 Inglés II - Mix Ids_Ene-A - LEAL LARA CRISTÓBAL - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:22             8.940 Desarrollo Humano y Valores - 2A - SALAZAR ARIAS GUILLERMO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:22             8.905 Cálculo Diferencial - 2A - MENDOZA ZÁRATE LUBER - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:22            10.031 Desarrollo Humano y Valores - 2B - SALAZAR ARIAS GUILLERMO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:22             9.596 Cálculo Diferencial - 2B - MENDOZA ZÁRATE LUBER - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             9.669 Ingeniería de Software Asistida por Computadora - 2B - LÓPEZ PÉREZ RICARDO GUDIEL - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:22             9.016 Programación Orientada a Objetos - 2A - LÓPEZ ZUNÚN ALÍ SANTIAGO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             9.778 Estructura de Datos - 2B - LÓPEZ ZUNÚN ALÍ SANTIAGO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:22             9.393 Programación Orientada a Objetos - 2B - NURICUMBO CASTRO HECTOR ROBERTO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             9.175 Ingeniería de Software Asistida por Computadora - 2A - NURICUMBO CASTRO HECTOR ROBERTO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             9.716 Procesos de Desarrollo de Software - 2B - LÓPEZ ZUNÚN ALÍ SANTIAGO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             9.386 Cálculo Integral - 3A - NÚÑEZ GALLEGOS FABIAN - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:22             9.425 Estructura de Datos - 2A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             8.915 Procesos de Desarrollo de Software - 2A - VIRRUETA GORDILLO AREMY OLAYA - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             9.146 Inglés III - IDS-A - BEZARES VELASCO PALOMA TAMARA - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             8.568 Cálculo Integral - 3B - NÚÑEZ GALLEGOS FABIAN - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             8.514 Cálculo Integral - 3C - NÚÑEZ GALLEGOS FABIAN - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             8.695 Inglés III - IDS-B - DE LA ROCA SOLIS ANA GABRIELA - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             9.317 Programación Visual - 3A - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             8.527 Programación Visual - 3B - NURICUMBO CASTRO HECTOR ROBERTO - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             8.697 Programación Visual - 3C - VAZQUEZ CRUZ DIANA BEATRIZ - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             8.730 Inteligencia Emocional y Manejo de Conflictos - 3B - SALAZAR ARIAS GUILLERMO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             9.411 Inteligencia Emocional y Manejo de Conflictos - 3A - SALAZAR ARIAS GUILLERMO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             8.620 Inteligencia Emocional y Manejo de Conflictos - 3C - SALAZAR ARIAS GUILLERMO - MAYO-AGOSTO 2022.xlsx
+03/08/2022  09:23             9.262 Estructura de Datos Avanzadas - 3A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             9.254 Fundamentos de Base de Datos - 3A - LÓPEZ PÉREZ RICARDO GUDIEL - MAYO-AGOSTO 2022 (2).xlsx
+03/08/2022  09:23             8.431 Fundamentos de Base de Datos - 3B - LÓPEZ PÉREZ RICARDO GUDIEL - MAYO-AGOSTO 2022 (2).xlsx
+07/10/2022  09:59               189 2022.c2.txt
+             155 archivos      1.372.912 bytes
+               2 dirs  433.840.009.216 bytes libres

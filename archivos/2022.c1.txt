@@ -1,0 +1,172 @@
+ El volumen de la unidad G es cdiaz@ids.upchiapas.edu.mx - ...
+ El número de serie del volumen es: 1983-1116
+
+ Directorio de G:\Mi unidad\IDS_CACEI_Criterio 1\Actas completas\2022.C1
+
+07/10/2022  09:59    <DIR>          .
+02/08/2022  12:52    <DIR>          ..
+03/08/2022  09:20             8.612 Mantenimiento de Software - 8B - LÓPEZ ZUNÚN ALÍ SANTIAGO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:20             6.929 Estadía - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:20             8.331 Multimedia y Diseño Digital - 8A - PINEDA CASTAÑON MAURICIO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:20             9.143 Multimedia y Diseño Digital - 8B - PINEDA CASTAÑON MAURICIO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             8.299 Sistemas Digitales - 5B - GARCIA BALLINAS SIRGEI - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:18             7.563 Estancia I - 6A - VAZQUEZ CRUZ DIANA BEATRIZ - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:17             8.862 Sistemas Digitales - 5A - GARCIA BALLINAS SIRGEI - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:18             8.148 Estancia II - 7A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:18             9.474 Programación Concurrente - 7A - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:17             9.292 Fundamentos de Redes - 5A - MACIAS MONTOYA JOSE ALONSO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:18             9.371 Sistemas Operativos - 7A - MACIAS MONTOYA JOSE ALONSO - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:18             9.682 Pruebas del Software - 7A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:17             8.981 Arquitectura de Software - 5B - MACIAS MONTOYA JOSE ALONSO - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:18             9.187 Estancia II - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:18             8.155 Estancia II - 8B - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:18             6.836 Inteligencia artificial - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:18             8.533 Programación para Móviles I - 8A - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:18             9.087 Programación para Móviles I - 8B - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:18             9.785 Electricidad y Magnetismo - 4A - GARCIA BALLINAS SIRGEI - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:18             8.818 Matemáticas para Ingeniería II - 5B - DOMÍNGUEZ ESPINOSA JUAN CARLOS - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:18             9.313 Matemáticas para Ingeniería II - 5A - DOMÍNGUEZ ESPINOSA JUAN CARLOS - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:18            10.287 Inglés VIII - IDS-A - GUTIÉRREZ DE LA CRUZ JOAQUÍN MIGUEL - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:18            10.620 Inglés V - IDS-A - GORDILLO ORANTES BRENDA GUADALUPE - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:18             8.626 Ética Profesional - 5B - SALAZAR ARIAS GUILLERMO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:18             9.586 Programación Cliente Servidor - 5A - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:18             9.815 Ética Profesional - 5A - SALAZAR ARIAS GUILLERMO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:18             9.586 Programación Cliente Servidor - 5A - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:18             9.170 Liderazgo de Equipos de Alto Desempeño - 7A - SALAZAR ARIAS GUILLERMO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:19             9.475 Programación Concurrente - 7A - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:18             9.499 Inglés VII - Mix Ids_Ene- A - AQUINO TRINIDAD ALEN RICARDO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:19             9.991 Lenguajes y Autómatas - 7A - VAZQUEZ CRUZ DIANA BEATRIZ - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:18             9.586 Arquitectura de Software - 5A - VIRRUETA GORDILLO AREMY OLAYA - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:18             9.291 Fundamentos de Redes - 5A - MACIAS MONTOYA JOSE ALONSO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:18             8.703 Fundamentos de Redes - 5B - MACIAS MONTOYA JOSE ALONSO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:18             8.564 Programación Cliente Servidor - 5B - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             9.682 Pruebas del Software - 7A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:18             8.982 Arquitectura de Software - 5B - MACIAS MONTOYA JOSE ALONSO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:19             8.147 Estancia II - 7A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:18             8.298 Sistemas Digitales - 5B - GARCIA BALLINAS SIRGEI - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:19             9.188 Estancia II - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:18             7.563 Estancia I - 6A - VAZQUEZ CRUZ DIANA BEATRIZ - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:19             9.371 Sistemas Operativos - 7A - MACIAS MONTOYA JOSE ALONSO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:19             8.155 Estancia II - 8B - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:19            10.287 Inglés VIII - IDS-A - GUTIÉRREZ DE LA CRUZ JOAQUÍN MIGUEL - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:19             8.379 Compiladores e Intérpretes - 8A - VAZQUEZ CRUZ DIANA BEATRIZ - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             9.085 Programación para Móviles I - 8B - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:19             8.533 Programación para Móviles I - 8A - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:18             8.862 Sistemas Digitales - 5A - GARCIA BALLINAS SIRGEI - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:19             6.836 Inteligencia artificial - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:19             8.261 Compiladores e Intérpretes - 8B - VAZQUEZ CRUZ DIANA BEATRIZ - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             9.071 Inteligencia Artificial - 8B - DÍAZ HERNÁNDEZ CARLOS ALBERTO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             8.631 Inteligencia Artificial - 8A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             8.761 Análisis Financiero de Software - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             6.929 Estadía - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - ENERO-ABRIL 2022 (1) (1).xlsx
+03/08/2022  09:19             8.332 Multimedia y Diseño Digital - 8A - PINEDA CASTAÑON MAURICIO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             9.143 Multimedia y Diseño Digital - 8B - PINEDA CASTAÑON MAURICIO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             8.149 Estancia II - 7A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             9.685 Pruebas del Software - 7A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             9.474 Programación Concurrente - 7A - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             8.612 Mantenimiento de Software - 8B - LÓPEZ ZUNÚN ALÍ SANTIAGO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             8.508 Análisis Financiero de Software - 8B - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             8.558 Mantenimiento de Software - 8A - LÓPEZ ZUNÚN ALÍ SANTIAGO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             7.042 Estadía - 10A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:19             9.188 Estancia II - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             8.155 Estancia II - 8B - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19            10.287 Inglés VIII - IDS-A - GUTIÉRREZ DE LA CRUZ JOAQUÍN MIGUEL - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:19             6.837 Inteligencia artificial - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:20             8.533 Programación para Móviles I - 8A - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:20             9.087 Programación para Móviles I - 8B - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:20             7.041 Estadía - 10A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:20             7.042 Estadía - 10A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:20             6.929 Estadía - A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:20             8.379 Compiladores e Intérpretes - 8A - VAZQUEZ CRUZ DIANA BEATRIZ - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:20             8.632 Inteligencia Artificial - 8A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:20             9.070 Inteligencia Artificial - 8B - DÍAZ HERNÁNDEZ CARLOS ALBERTO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:20             8.509 Análisis Financiero de Software - 8B - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:20             8.260 Compiladores e Intérpretes - 8B - VAZQUEZ CRUZ DIANA BEATRIZ - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:20             8.558 Mantenimiento de Software - 8A - LÓPEZ ZUNÚN ALÍ SANTIAGO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:20             8.761 Análisis Financiero de Software - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:16             8.921 Estructura de Datos - 2B - LÓPEZ ZUNÚN ALÍ SANTIAGO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:16             8.370 Estructura de Datos - 2C - LÓPEZ ZUNÚN ALÍ SANTIAGO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:16             9.475 Ingeniería de Software Asistida por Computadora - 2A - LÓPEZ PÉREZ RICARDO GUDIEL - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:16            10.620 Inglés V - IDS-A - GORDILLO ORANTES BRENDA GUADALUPE - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:16            10.680 Inglés IV - Mix IdsEne - MERCHAM LOPEZ RAQUEL - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:16             8.886 Ingeniería de Software Asistida por Computadora - 2C - LÓPEZ PÉREZ RICARDO GUDIEL - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:16             8.778 Procesos de Desarrollo de Software - 2C - VIRRUETA GORDILLO AREMY OLAYA - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:16             8.800 Procesos de Desarrollo de Software - 2B - VIRRUETA GORDILLO AREMY OLAYA - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:16             8.679 Ingeniería de Software Asistida por Computadora - 2B - LÓPEZ PÉREZ RICARDO GUDIEL - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:16             9.941 Procesos de Desarrollo de Software - 2A - VIRRUETA GORDILLO AREMY OLAYA - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:16             9.313 Matemáticas para Ingeniería II - 5A - DOMÍNGUEZ ESPINOSA JUAN CARLOS - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:16             9.547 Base de Datos - 4A - LÓPEZ ZUNÚN ALÍ SANTIAGO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:16             8.817 Matemáticas para Ingeniería II - 5B - DOMÍNGUEZ ESPINOSA JUAN CARLOS - ENERO-ABRIL 2022 (1) (1).xlsx
+03/08/2022  09:16             8.565 Programación Cliente Servidor - 5B - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:16             9.586 Programación Cliente Servidor - 5A - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (4).xlsx
+03/08/2022  09:16             9.785 Electricidad y Magnetismo - 4A - GARCIA BALLINAS SIRGEI - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:16             9.816 Ética Profesional - 5A - SALAZAR ARIAS GUILLERMO - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:16            10.280 Habilidades Cognitivas y Creatividad - 4A - SALAZAR ARIAS GUILLERMO - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:17             8.334 Cálculo Diferencial - 2B - NÚÑEZ GALLEGOS FABIAN - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:16             9.291 Fundamentos de Redes - 5A - MACIAS MONTOYA JOSE ALONSO - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:17             8.619 Programación Orientada a Objetos - 2B - NURICUMBO CASTRO HECTOR ROBERTO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:16             8.626 Ética Profesional - 5B - SALAZAR ARIAS GUILLERMO - ENERO-ABRIL 2022 (3).xlsx
+03/08/2022  09:17             9.891 Programación Orientada a Objetos - 2A - NURICUMBO CASTRO HECTOR ROBERTO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:16             8.705 Fundamentos de Redes - 5B - MACIAS MONTOYA JOSE ALONSO - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:17             8.674 Cálculo Diferencial - 2C - NÚÑEZ GALLEGOS FABIAN - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             8.767 Programación Orientada a Objetos - 2C - NURICUMBO CASTRO HECTOR ROBERTO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             8.369 Estructura de Datos - 2C - LÓPEZ ZUNÚN ALÍ SANTIAGO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             8.922 Estructura de Datos - 2B - LÓPEZ ZUNÚN ALÍ SANTIAGO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             9.475 Ingeniería de Software Asistida por Computadora - 2A - LÓPEZ PÉREZ RICARDO GUDIEL - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             9.830 Programación Web - 4A - VIRRUETA GORDILLO AREMY OLAYA - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             9.862 Matemáticas para Ingeniería I - 4A - MENDOZA ZÁRATE LUBER - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             8.679 Ingeniería de Software Asistida por Computadora - 2B - LÓPEZ PÉREZ RICARDO GUDIEL - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             8.886 Ingeniería de Software Asistida por Computadora - 2C - LÓPEZ PÉREZ RICARDO GUDIEL - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17            10.129 Estructura de Datos - 2A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             9.840 Diseño de Interfaces - 4A - PINEDA CASTAÑON MAURICIO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17            10.679 Inglés IV - Mix IdsEne - MERCHAM LOPEZ RAQUEL - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17            10.620 Inglés V - IDS-A - GORDILLO ORANTES BRENDA GUADALUPE - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             9.587 Programación Cliente Servidor - 5A - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             8.818 Matemáticas para Ingeniería II - 5B - DOMÍNGUEZ ESPINOSA JUAN CARLOS - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             9.313 Matemáticas para Ingeniería II - 5A - DOMÍNGUEZ ESPINOSA JUAN CARLOS - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             9.547 Base de Datos - 4A - LÓPEZ ZUNÚN ALÍ SANTIAGO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             9.785 Electricidad y Magnetismo - 4A - GARCIA BALLINAS SIRGEI - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             9.816 Ética Profesional - 5A - SALAZAR ARIAS GUILLERMO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             9.941 Procesos de Desarrollo de Software - 2A - VIRRUETA GORDILLO AREMY OLAYA - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17            10.281 Habilidades Cognitivas y Creatividad - 4A - SALAZAR ARIAS GUILLERMO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             8.778 Procesos de Desarrollo de Software - 2C - VIRRUETA GORDILLO AREMY OLAYA - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             8.800 Procesos de Desarrollo de Software - 2B - VIRRUETA GORDILLO AREMY OLAYA - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             8.626 Ética Profesional - 5B - SALAZAR ARIAS GUILLERMO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:17             8.565 Programación Cliente Servidor - 5B - GUZMAN RUIZ ROBERTO EDUARDO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:18             9.499 Inglés VII - Mix Ids_Ene- A - AQUINO TRINIDAD ALEN RICARDO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:18             9.170 Liderazgo de Equipos de Alto Desempeño - 7A - SALAZAR ARIAS GUILLERMO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:17             9.586 Arquitectura de Software - 5A - VIRRUETA GORDILLO AREMY OLAYA - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:17             8.705 Fundamentos de Redes - 5B - MACIAS MONTOYA JOSE ALONSO - ENERO-ABRIL 2022 (1).xlsx
+03/08/2022  09:18             9.991 Lenguajes y Autómatas - 7A - VAZQUEZ CRUZ DIANA BEATRIZ - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:15             9.818 Inglés I - IDS-B - BEZARES VELASCO PALOMA TAMARA - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15             9.552 Inglés I - IDS-A - AGUILAR ANZUETO BLANCA ZUARANI - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15             9.499 Álgebra Lineal - 1A - GARCIA BALLINAS SIRGEI - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15             9.781 Química Básica - 1B - BLANCO GONZÁLEZ CRISTINA - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15             9.461 Química Básica - 1A - CHANONA SOTO JOSUÉ - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15            10.043 Matemáticas Discretas - 1A - MENDOZA ZÁRATE LUBER - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15             9.640 Fundamentos de Computación - 1A - LÓPEZ PÉREZ RICARDO GUDIEL - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15            10.096 Matemáticas Discretas - 1B - MENDOZA ZÁRATE LUBER - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15             9.513 Álgebra Lineal - 1B - GARCIA BALLINAS SIRGEI - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15             9.708 Fundamentos de Computación - 1B - NURICUMBO CASTRO HECTOR ROBERTO - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15             9.874 Algoritmos - 1A - VAZQUEZ CRUZ DIANA BEATRIZ - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15            10.012 Algoritmos - 1B - MACIAS MONTOYA JOSE ALONSO - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15             9.750 Expresión Oral y Escrita I - 1A - SALAZAR ARIAS GUILLERMO - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15             9.826 Expresión Oral y Escrita I - 1B - SALAZAR ARIAS GUILLERMO - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:16             8.619 Programación Orientada a Objetos - 2B - NURICUMBO CASTRO HECTOR ROBERTO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:15             9.939 Inglés II - Mix Ids_Ene- A - ROBLES HERNANDEZ DIANA CAROLINA - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:16             9.891 Programación Orientada a Objetos - 2A - NURICUMBO CASTRO HECTOR ROBERTO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:15             9.871 Desarrollo Humano y Valores - 2A - ALVAREZ COELLO GREISY DINORY - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:15             8.690 Inglés II - Mix IdsEne-B - SANTIAGO CRUZ EDUARDO - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:16             8.674 Cálculo Diferencial - 2C - NÚÑEZ GALLEGOS FABIAN - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:16             9.650 Cálculo Diferencial - 2A - NÚÑEZ GALLEGOS FABIAN - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:16             8.333 Cálculo Diferencial - 2B - NÚÑEZ GALLEGOS FABIAN - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:16            10.129 Estructura de Datos - 2A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:16             8.746 Desarrollo Humano y Valores - 2B - ALVAREZ COELLO GREISY DINORY - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:16             9.241 Desarrollo Humano y Valores - 2C - ALVAREZ COELLO GREISY DINORY - ENERO-ABRIL 2022.xlsx
+03/08/2022  09:16             9.861 Matemáticas para Ingeniería I - 4A - MENDOZA ZÁRATE LUBER - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:16             9.839 Diseño de Interfaces - 4A - PINEDA CASTAÑON MAURICIO - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:16             9.830 Programación Web - 4A - VIRRUETA GORDILLO AREMY OLAYA - ENERO-ABRIL 2022 (2).xlsx
+03/08/2022  09:16             8.768 Programación Orientada a Objetos - 2C - NURICUMBO CASTRO HECTOR ROBERTO - ENERO-ABRIL 2022 (2).xlsx
+07/10/2022  09:59               189 2022.c1.txt
+             163 archivos      1.469.700 bytes
+               2 dirs  433.842.208.768 bytes libres
