@@ -109,6 +109,7 @@ cadenas = []
 asignatura = []
 grupo = []
 docente = []
+periodopar = []
 periodo = []
 
 def evaluar(datos):
@@ -130,9 +131,21 @@ def evaluar(datos):
         asignatura.append(y[0])
         grupo.append(y[1])
         docente.append(y[2])
-        periodo.append(y[3][0:-5])
+        periodopar.append(y[3][0:-5])
+        
+    for j in periodopar:
+        
+        auxi = j.replace(" ", "$", 1)
+        
+        auxi = auxi.split(" ")
+        
+        periodo.append(auxi[0].replace("$", " "))
+        
+    print(periodo)
 
-    # print(periodo)
+    # for g in periodo:
+    #     periodo
+    
 
 def obtener_cadena(dir):
 

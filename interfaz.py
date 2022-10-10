@@ -27,7 +27,7 @@ class Aplicacion(tk.Tk):
         
     def seleccionar_archivo(self):
         archivo = fd.askopenfilename(
-            initialdir='D:/Archivos/Tareas/Autómatas/Automatac1/automatac1',
+            initialdir='D:/Archivos/Tareas/Autómatas/Automatac1/203450-RIOS-MENA-AUTOMATA',
             title='Seleccionar archivo',
             filetypes=(('Archivos de texto', '*.txt'),)
         )
@@ -46,7 +46,7 @@ class Aplicacion(tk.Tk):
     def seleccionar_carpeta(self):
         
         directorio = fd.askdirectory(
-            initialdir='D:/Archivos/Tareas/Autómatas/Automatac1/automatac1/',
+            initialdir='D:/Archivos/Tareas/Autómatas/Automatac1/203450-RIOS-MENA-AUTOMATA',
             title='Seleccionar carpeta'
         )
         
