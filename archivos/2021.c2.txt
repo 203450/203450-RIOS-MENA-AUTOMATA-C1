@@ -5,7 +5,7 @@ El volumen de la unidad G es cdiaz@ids.upchiapas.edu.mx - ...
 
 07/10/2022  09:58    <DIR>          .
 02/08/2022  12:52    <DIR>          ..
-04/07/2022  10:48             6.941 Estadía - 10A - DÍAZ HERNÁNDEZ CARLOS ALBERTO - MAYO-AGOSTO 2021 (2).xlsx
+04/07/2022  10:48             6.941    Estadía    -    10A    -    DÍAZ   HERNÁNDEZ    CARLOS   ALBERTO    -    MAYO-AGOSTO   2021    (2).xlsx   
 04/07/2022  10:48             9.330 Arquitectura Orientada a Servicios - 9A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021 (4).xlsx
 04/07/2022  10:47             7.956 Programación para Móviles I - 8A - GUZMAN RUIZ ROBERTO EDUARDO - MAYO-AGOSTO 2021.xlsx
 04/07/2022  10:47             8.206 Análisis Financiero de Software - 8A - HERNÁNDEZ CAMACHO ROCIO CRYSTAL - MAYO-AGOSTO 2021.xlsx
